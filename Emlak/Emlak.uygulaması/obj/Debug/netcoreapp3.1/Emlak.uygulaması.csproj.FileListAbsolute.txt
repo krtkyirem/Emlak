@@ -1,0 +1,14 @@
+C:\Users\irems\Desktop\Github-Projeler\Emlak\Emlak.uygulaması\bin\Debug\netcoreapp3.1\Emlak.uygulaması.exe
+C:\Users\irems\Desktop\Github-Projeler\Emlak\Emlak.uygulaması\bin\Debug\netcoreapp3.1\Emlak.uygulaması.deps.json
+C:\Users\irems\Desktop\Github-Projeler\Emlak\Emlak.uygulaması\bin\Debug\netcoreapp3.1\Emlak.uygulaması.runtimeconfig.json
+C:\Users\irems\Desktop\Github-Projeler\Emlak\Emlak.uygulaması\bin\Debug\netcoreapp3.1\Emlak.uygulaması.runtimeconfig.dev.json
+C:\Users\irems\Desktop\Github-Projeler\Emlak\Emlak.uygulaması\bin\Debug\netcoreapp3.1\Emlak.uygulaması.dll
+C:\Users\irems\Desktop\Github-Projeler\Emlak\Emlak.uygulaması\bin\Debug\netcoreapp3.1\Emlak.uygulaması.pdb
+C:\Users\irems\Desktop\Github-Projeler\Emlak\Emlak.uygulaması\obj\Debug\netcoreapp3.1\Emlak.uygulaması.csproj.AssemblyReference.cache
+C:\Users\irems\Desktop\Github-Projeler\Emlak\Emlak.uygulaması\obj\Debug\netcoreapp3.1\Emlak.uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irems\Desktop\Github-Projeler\Emlak\Emlak.uygulaması\obj\Debug\netcoreapp3.1\Emlak.uygulaması.AssemblyInfoInputs.cache
+C:\Users\irems\Desktop\Github-Projeler\Emlak\Emlak.uygulaması\obj\Debug\netcoreapp3.1\Emlak.uygulaması.AssemblyInfo.cs
+C:\Users\irems\Desktop\Github-Projeler\Emlak\Emlak.uygulaması\obj\Debug\netcoreapp3.1\Emlak.uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\irems\Desktop\Github-Projeler\Emlak\Emlak.uygulaması\obj\Debug\netcoreapp3.1\Emlak.uygulaması.dll
+C:\Users\irems\Desktop\Github-Projeler\Emlak\Emlak.uygulaması\obj\Debug\netcoreapp3.1\Emlak.uygulaması.pdb
+C:\Users\irems\Desktop\Github-Projeler\Emlak\Emlak.uygulaması\obj\Debug\netcoreapp3.1\Emlak.uygulaması.genruntimeconfig.cache
